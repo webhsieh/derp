@@ -3,7 +3,7 @@
     {
       "name": "Paquito",
       "heroid": "103",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_f3695c153689c30f8ebfd334931e0525.jpg",
+      "key": "https://mobileg.s3.amazonaws.com/heroprofile/103.png",
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/B2/Cq2IxmAKtDOAe9QQAAIoQFvuZwA933.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/B2/Cq2IxmAKtDOAe9QQAAIoQFvuZwA933.jpg",
       "mag": "70",
@@ -142,7 +142,7 @@
     {
       "name": "Mathilda",
       "heroid": "102",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_74d09f52db9256502ecf2c32211a8102.jpg",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/102.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/AB/Cq2Ixl_0Rb-ASjG-AAHxmroqeZo017.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/AB/Cq2Ixl_0Rb-ASjG-AAHxmroqeZo017.jpg",
@@ -288,7 +288,7 @@
     {
       "name": "Yve",
       "heroid": "101",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_3e58a535ecbec9e1dc76b7ba74ff43c5.jpg",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/101.png",
       "cover_picture": "https://img.mobilelegends.com/",
       "gallery_picture": "https://img.mobilelegends.com/",
       "junling": "",
@@ -423,7 +423,7 @@
     {
       "name": "Brody",
       "heroid": "100",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_b09c321e1766f686935775d11ad22787.jpg",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/100.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/AA/Cq2Ixl-ZJ0mAadnRAAhy874yrX4103.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/AA/Cq2Ixl-ZJ0mAadnRAAhy874yrX4103.jpg",
@@ -563,7 +563,7 @@
     {
       "name": "Barats",
       "heroid": "99",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_52c80b58ebb105e96295c11d9bfd9a9b.jpg",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/99.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/AB/Cq2Ixl-_iUCAQOs3AALNya38dwM674.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/AB/Cq2Ixl-_iUCAQOs3AALNya38dwM674.jpg",
@@ -709,7 +709,7 @@
     {
       "name": "Khaleed",
       "heroid": "98",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_ac05d090c11fe4aefa6a7d004493fb65.jpg",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/98.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/A8/Cq2Ixl9pXlyAVn9EAACpsT8Kzhw458.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/A8/Cq2Ixl9pXoOAdfCLAAAVfvnedwU370.jpg",
@@ -849,7 +849,7 @@
     {
       "name": "Benedetta",
       "heroid": "97",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_f09a3869e4236053915d3757c1ff1f3f.jpg",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/97.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/AA/Cq2Ixl-tBGWAfhl2AAaUgw9QM2s498.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/AA/Cq2Ixl-tBHaAd3qFAAKErq7VQ9g270.png",
@@ -989,7 +989,7 @@
     {
       "name": "Luo Yi",
       "heroid": "96",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_c9f30c0ebde489a34b70ba1064c6fb02.jpg",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/96.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/A7/Cq2Ixl7shFWAJ73nAAF5owmcBqA347.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/A7/Cq2Ixl7shFWAJ73nAAF5owmcBqA347.jpg",
@@ -1129,7 +1129,7 @@
     {
       "name": "Yu Zhong",
       "heroid": "95",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_ce46392c8bb8714320dc51ee6c0b3e84.jpg",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/95.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/A8/Cq2Ixl8MDzOAYTdJAAGJKaZhxlA426.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/A8/Cq2Ixl8MD0aAVrSNAAKeHzkyVCw840.jpg",
@@ -1267,7 +1267,7 @@
     {
       "name": "Popol and Kupa",
       "heroid": "94",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_ca29a7735b2c9ae8cd38d745d4d18bcd.jpg",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/94.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/A5/Cq2Ixl7E1daAQNCCAADPoHsTYm4742.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/A5/Cq2Ixl7E1ciALhR7AAGTE9CAk8M123.jpg",
@@ -1409,7 +1409,7 @@
     {
       "name": "Atlas",
       "heroid": "93",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_a2f68d5c30c0198006b2c85b7a5cb48b.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/93.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/A2/Cq2Ixl54NQOAHX6JACty3wYPk0E694.png",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/A2/Cq2Ixl54M5-AeNc8ACjUWyOSxX4862.png",
@@ -1553,7 +1553,7 @@
     {
       "name": "Carmilla",
       "heroid": "92",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_b7f2851b57e938c41ce32c00c685e0c8.jpg",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/92.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/9E/Cq2Ixl4XLOKAATE1AAB-Bng5Zpk409.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/9E/Cq2Ixl4XLdOANrkCAAAcKvRQraY529.jpg",
@@ -1699,7 +1699,7 @@
     {
       "name": "Cecilion",
       "heroid": "91",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_a66ec3b1b8036839538cc0ade8aff50c.jpg",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/91.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/9F/Cq2Ixl482mmAXpUEAACuURUvGrM540.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/9F/Cq2Ixl482m6AJ6SNAAAgSP4UMH8721.jpg",
@@ -1845,7 +1845,7 @@
     {
       "name": "Silvanna",
       "heroid": "90",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_743db67971d02b6a9a8065d9cedade23.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/90.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/9B/Cq2Ixl3x-JyAVc0yAAb1_GVq3SM157.png",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/9B/Cq2Ixl3x-BKAa8rDAABWAbICJ4w739.jpg",
@@ -1989,7 +1989,7 @@
     {
       "name": "Wanwan",
       "heroid": "89",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_d744e6f02ba1d9b5f246a5532cc2b201.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/89.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/9A/Cq2Ixl3c8IaAPy71AAFqSViP4Ro840.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/9A/Cq2Ixl3c8IWAdsf-AAAkhVf1lB4797.jpg",
@@ -2133,7 +2133,7 @@
     {
       "name": "Masha",
       "heroid": "88",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_9d0de850dd87bd7780be02ec20cad693.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/88.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/93/Cq2Ixl2Ec1yAQwj7AACx3YqOYsM648.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/93/Cq2Ixl2Ec1yAFGLTAAAgHATIQEQ222.jpg",
@@ -2279,7 +2279,7 @@
     {
       "name": "Baxia",
       "heroid": "87",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_22474dd14312ea67d5d2caa742bff2ec.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/87.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/95/Cq2Ixl2R1cuAN3rnAAFXC6fQeM8666.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/95/Cq2Ixl2R1cqAAeMuAAAyO63GPcE323.jpg",
@@ -2425,7 +2425,7 @@
     {
       "name": "Lylia",
       "heroid": "86",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_bd89e9f00f56e708f4c9adecf0c57c64.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/86.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/8E/Cq2Ixl0387mAMm82AAZQtBmLENM813.png",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/8E/Cq2Ixl0387iAHa76AAAgNvsQmcY873.jpg",
@@ -2569,7 +2569,7 @@
     {
       "name": "Dyrroth",
       "heroid": "85",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_1604bdeb797af75682b7e3ae3728e3db.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/85.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/8C/Cq2Ixl0jBYKASLt2AAJUcyfTowE724.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/8C/Cq2Ixl0jBaqAXXFqAABZz7aJqJQ330.jpg",
@@ -2713,7 +2713,7 @@
     {
       "name": "Ling",
       "heroid": "84",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_cdbe15a03ad4518f37d89c9e1cbf5c4e.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/84.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/99/Cq2Ixl3CL9KAE2tSAAGFxj5Wh1Q326.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/99/Cq2Ixl3CL9KAPLCgAAAvg8rs3F8741.jpg",
@@ -2857,7 +2857,7 @@
     {
       "name": "X.Borg",
       "heroid": "83",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_1d4d7dfe38cb5e0fcfcf06b8af6b2103.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/83.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/91/Cq2Ixl1SJtWAU3vuAADiCq65mq0032.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/91/Cq2Ixl1SJtWAJV2mAAAfLQ6Lq5g204.jpg",
@@ -3001,7 +3001,7 @@
     {
       "name": "Terizla",
       "heroid": "82",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_45c908d0d59990c13d229ab22db05ebb.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/82.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/8B/Cq2Ixlz-KjGAc-1ZABKAGFpm7BM360.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/8B/Cq2Ixlz-KiWABsmiABJwDBzCGdY618.jpg",
@@ -3143,7 +3143,7 @@
     {
       "name": "Esmeralda",
       "heroid": "81",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_b691012cb168b31b172da8b62552e746.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/81.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/84/Cq2Ixlyh1muAO2A4AACf3Yr5J2k698.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/84/Cq2Ixlyh1teAeo1AAAAeKmDbpVA175.jpg",
@@ -3289,7 +3289,7 @@
     {
       "name": "Guinevere",
       "heroid": "80",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_0bb9349ff0a17747c126ea107a11e6cd.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/80.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/78/Cq2IxlxuQR6AAtjKAADGZoqzOd4790.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/78/Cq2IxlxuQSeAKK3ZAAAv0n4EZCc449.jpg",
@@ -3431,7 +3431,7 @@
     {
       "name": "Granger",
       "heroid": "79",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_c7e48401ff0d33cb91ff1b4a59b3c0cf.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/79.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/85/Cq2Ixly-wu-AX2PDAACZ0yEn14k256.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/85/Cq2Ixly-wvKAdkgtAAAcvofnYP0719.jpg",
@@ -3573,7 +3573,7 @@
     {
       "name": "Khufra",
       "heroid": "78",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_398cd0a73db63a4b098ab28de5953a0d.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/78.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/7D/Cq2IxlyIxEKAH5TZAADN1Ig1Vck078.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/7D/Cq2IxlyIxFKAP0hLAAA51ao_s9M696.jpg",
@@ -3719,7 +3719,7 @@
     {
       "name": "Badang",
       "heroid": "77",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_686f5e16b9d129d7012751241943c2c9.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/77.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/70/Cq2Ixlw9j-2AHA67AAEHWLRpOI4513.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/70/Cq2Ixlw9j_CAPOxAAAAsIqjpwrE609.jpg",
@@ -3863,7 +3863,7 @@
     {
       "name": "Faramis",
       "heroid": "76",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_f851bef0932a8ce4fd16e99bb11fed9a.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/76.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/88/Cq2IxlzmqriAUfUYAACka76WaSs606.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/88/Cq2IxlzmqvyADiEnAABGwS4Jnmc929.jpg",
@@ -4007,7 +4007,7 @@
     {
       "name": "Kadita",
       "heroid": "75",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_c8bec784a42a812db26ea3f34c029fdc.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/75.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/6D/Cq2IxlwYrb-AFA5KAAEgZvgbXvk427.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/6D/Cq2IxlwYrcGATtjGAAAtsaViLVQ840.jpg",
@@ -4153,7 +4153,7 @@
     {
       "name": "Minsitthar",
       "heroid": "74",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_90e07d7b0c04bdb13304d239644dc151.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/74.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/69/Cq2Ixlv0FRCAIF6ZAAD0XEKxZEM139.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/69/Cq2Ixlv0FRqAZpXSAAAu40WyRgU089.jpg",
@@ -4297,7 +4297,7 @@
     {
       "name": "Harith",
       "heroid": "73",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_6df4352d8f0d6ce429ad308d323c6206.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/73.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/67/Cq2IxlvhXhqAHSpgAAD50hPhJ_o145.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/67/Cq2IxlvhXh6ARmiTAACqJB6qAVQ340.jpg",
@@ -4441,7 +4441,7 @@
     {
       "name": "Thamuz",
       "heroid": "72",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_5348df62801bc2fe1c093f8607c2e4a2.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/72.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/5A/Cq2IxlugsBSAHfefAACsFW0bZGk780.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/5A/Cq2IxlugsBiAKH-kAABjJsXh--8423.jpg",
@@ -4585,7 +4585,7 @@
     {
       "name": "Kimmy",
       "heroid": "71",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_c504661df2f22fd56f566402b00f91cd.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/71.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/63/Cq2IxlvQdfKAQs8FAACSno3WYko057.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/63/Cq2IxlvQdfyAEE5oAAAlz6SUvGk020.jpg",
@@ -4727,7 +4727,7 @@
     {
       "name": "Belerick",
       "heroid": "70",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_f9b01617505b9562d3bbc75e9d392c91.jpg",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/70.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/50/Cq2Ixlt6svSAHVi_AADQiWe7GjU557.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/50/Cq2Ixlt6sviAN8lQAABhtStxHH4886.jpg",
@@ -4873,7 +4873,7 @@
     {
       "name": "Hanzo",
       "heroid": "69",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_94a3512d03632badcf05fb858ac6d573.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/69.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/6A/Cq2IxlwPgJWAa7oEAABdF567lzI080.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/6A/Cq2IxlwPgJ-AGe0-AAArO9MpPRc801.jpg",
@@ -5017,7 +5017,7 @@
     {
       "name": "Lunox",
       "heroid": "68",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_823bd0fce2a95b8452d52750df8d35f5.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/68.png",
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/58/Cq2IxluPeROAZWp1AAEJAdQijBY162.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/58/Cq2IxluPeR6ADbD0AABxE2wKuTs380.jpg",
       "junling": "",
@@ -5160,7 +5160,7 @@
     {
       "name": "Leomord",
       "heroid": "67",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_99740402a9e53c1aed74d25541b4f2c5.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/67.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/5C/Cq2IxluwyL-AQwheAAC9gsGwxIw636.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/5C/Cq2IxluwyMqAXIaIAABa9vn24ZU677.jpg",
@@ -5306,7 +5306,7 @@
     {
       "name": "Vale",
       "heroid": "66",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_de9363822c6d50d5dde8500a05b9657b.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/66.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/73/Cq2IxlxP8AeAOF3tAADRJnEWlXM371.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/74/Cq2IxlxP8BKAGnPiAAA1FiUAPYw091.jpg",
@@ -5452,7 +5452,7 @@
     {
       "name": "Claude",
       "heroid": "65",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_99318a0a409d80f0f2d4b47ee63b6bda.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/65.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/4C/Cq2IxltpGsCAQ6vVAACafm-dqsM999.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/4C/Cq2IxltpGtOAXrBjAABeJ8eJVnE868.jpg",
@@ -5596,7 +5596,7 @@
     {
       "name": "Aldous",
       "heroid": "64",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_433f9653743e72e1e152428d26838f9e.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/64.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/48/Cq2IxltWy_SAWU4TAACfTAA7dJk424.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/48/Cq2IxltW03-AI-OfAABZ58tWuds725.jpg",
@@ -5742,7 +5742,7 @@
     {
       "name": "Selena",
       "heroid": "63",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_0956f8d25d39312d0da5dca2cfca074c.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/63.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/3F/Cq2IxltEUuCAIgA9AACYGy-0dPc974.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/3F/Cq2IxltEUt6AdevNAAAy9a6zKHA798.jpg",
@@ -5886,7 +5886,7 @@
     {
       "name": "Kaja",
       "heroid": "62",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_7fe2a243687bb024b5728ea4bbf422fe.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/62.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/30/Cq2Ixlsor7qANjpkAACpokGW7U4672.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/30/Cq2Ixlsor7WAalaLAAAu_XflHgM849.jpg",
@@ -6030,7 +6030,7 @@
     {
       "name": "Chang'e",
       "heroid": "61",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_1a6b949d43ed33a7ad939ee4a0420b3e.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/61.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/22/Cq2IxlsMx2WADkO-AADUOFE6YCU843.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/22/Cq2IxlsMx3CAfhkMAAA5xNvTgzA941.jpg",
@@ -6174,7 +6174,7 @@
     {
       "name": "Hanabi",
       "heroid": "60",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_2dd679133fc379d77bbe4aefbf5d2d5a.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/60.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/09/Cq2IxlrVkbaAF-E-AAHD5dxcXFg3574905",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/09/Cq2IxlrVkbmAJVNhAABbY8YsYIM0856201",
@@ -6318,7 +6318,7 @@
     {
       "name": "Uranus",
       "heroid": "59",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_03f3e7982542f805a4ec9e5659ed217e.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/59.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/11/Cq2IxlrxIumAcrKRAAGy0wBvcZc616.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/11/Cq2IxlrxIviAP6FXAABWTRvOsY4824.jpg",
@@ -6464,7 +6464,7 @@
     {
       "name": "Martis",
       "heroid": "58",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_f6b745cc6347b4666c8ae31e5bb8edaa.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/58.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/05/Cq2Ixlq6ESWAIaeGAAG5-YfdANo3395863",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/05/Cq2Ixlq6EUKAJlVRAABX7PEmNao5302235",
@@ -6610,7 +6610,7 @@
     {
       "name": "Valir",
       "heroid": "57",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_11c3284b5ea83dfd377f4d1b9724c960.jpg",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/57.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/04/Cq2IxlqmNA-ASd5OAACia8RAFOE8935592",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/04/Cq2IxlqmM_aAatNEAAAj8x8sRqI5138305",
@@ -6756,7 +6756,7 @@
     {
       "name": "Gusion",
       "heroid": "56",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_4348913ce6e58e49c47e13113af0f352.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/56.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/03/Cq2IxlqP7xeAJX_ZAAF6-aQmyq01091541",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/03/Cq2IxlqP7yCAbVNXAABMfK3DAyw2050820",
@@ -6900,7 +6900,7 @@
     {
       "name": "Angela",
       "heroid": "55",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_feffcc9c39731586e645dbef2ce70afd.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/55.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/02/Cq2Ixlp62giAYZ6_AACCfqYsRU40233877",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/02/Cq2Ixlp62hqAUfEfAAAdDZvBBYc1191995",
@@ -7044,7 +7044,7 @@
     {
       "name": "Jawhead",
       "heroid": "54",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_9bddad128d45821b7fd6abb9773d7c53.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/54.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/01/Cq2Ixlpuvg6AZYrUAAB8UvX4GSQ0007229",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/01/Cq2IxlpuvhaAEIl_AAAl4-3OO8Q8334215",
@@ -7190,7 +7190,7 @@
     {
       "name": "Lesley",
       "heroid": "53",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_501184878b7de1c9e625233928627551.png",
+      "key": "///mobileg.s3.amazonaws.com/heroprofile/53.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/01/Cq2Ixlp5XSWAS4sTAACF3KBj5bI2024031",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/01/Cq2Ixlp5XS6AZsKWAAAfzEwkvhM8376579",
@@ -7334,7 +7334,7 @@
     {
       "name": "Pharsa",
       "heroid": "52",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_212e59ee7c8490397278ba68c8063a19.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/52.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/00/Cq2Ixlpll-aAQI1sAAB34j7sXxc3612403",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/00/Cq2Ixlpll_OABOKxAAAgYhSR_Eg4138171",
@@ -7480,7 +7480,7 @@
     {
       "name": "Helcurt",
       "heroid": "51",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_2baf1efb2d414acedf4a89b6fa330ad2.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/51.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtaGAWTYsAACGIUHEBlk2938231",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtaSAQ8mAAAAd-u7UEFg1951881",
@@ -7624,7 +7624,7 @@
     {
       "name": "Zhask",
       "heroid": "50",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_ca13970038ce4d7590d2f271b6c6f7f5.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/50.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtYuALm_JAACAVMdzDCg6208200",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtY-AW2roAAAhElbbZCg6857941",
@@ -7768,7 +7768,7 @@
     {
       "name": "Hylos",
       "heroid": "49",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_f3ddb1088279d711417234034024223d.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/49.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtXaARWkdAACdF1TXztY1511830",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtXmAYyMrAAAgBBR5fq03052026",
@@ -7914,7 +7914,7 @@
     {
       "name": "Diggie",
       "heroid": "48",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_84b30de71c6315ecc936a8b4d5076efc.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/48.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtUyAfbEUAACBbLMCtME8399630",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtVCAYhALAAApTvMmKuU0829919",
@@ -8058,7 +8058,7 @@
     {
       "name": "Lancelot",
       "heroid": "47",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_eabcac3c9021b5537605283aa6bac461.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/47.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtTSAEoGpAACG4Dgpl9s2791897",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtTiAEFXlAAAaeAX6D5A5603293",
@@ -8198,7 +8198,7 @@
     {
       "name": "Odette",
       "heroid": "46",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_52fb977cbea359297a830eef50cc33c2.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/46.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtSCAIsoJAACYTYzUP8I1676804",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtSOADf1-AAAjvUl7zys1812403",
@@ -8342,7 +8342,7 @@
     {
       "name": "Argus",
       "heroid": "45",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_2207669dcfd1d516133c922cb01de4da.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/45.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtQuAGizUAAB60D0MjFo1905917",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtQ6AYFLhAAAdVzC9Gbg2991059",
@@ -8486,7 +8486,7 @@
     {
       "name": "Grock",
       "heroid": "44",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_47c9a9a373919fd9cc0c68ff7788b32a.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/44.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtPWABoA8AACND_AiFfc2890684",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtPqAEnzdAAAiTD8wi0E9051374",
@@ -8632,7 +8632,7 @@
     {
       "name": "Irithel",
       "heroid": "43",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_1a30fb8c6fc6086fc2b3c9795e7305e6.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/43.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtNuAShAGAACFrtziHRc2923223",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtN-Ad43qAAAjM8VLH-A2130014",
@@ -8776,7 +8776,7 @@
     {
       "name": "Harley",
       "heroid": "42",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_a2f1d7806d874283c83913f14a533bb0.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/42.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtMSATJUvAACY-VPfC2U7878745",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtMiAScIZAAAkfFX_Uo84188944",
@@ -8920,7 +8920,7 @@
     {
       "name": "Gatotkaca",
       "heroid": "41",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_8b7e7d0bf164c78553806661deb1d672.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/41.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtK6AaKGkAACtLHzslx08037659",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtLSAPkgRAAAhyiqyTZY8303097",
@@ -9066,7 +9066,7 @@
     {
       "name": "Karrie",
       "heroid": "40",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_2ae89c203ad1488fa1af6b7e51dae488.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/40.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtJiAIegKAAB1GyoxqLY9646942",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtJ6ARLm4AAAklnCZSDU5419773",
@@ -9210,7 +9210,7 @@
     {
       "name": "Roger",
       "heroid": "39",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_d2f1ce4289d7399177b7f8a25bdf593d.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/39.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtISAOO_NAAByUsK0VHs8632540",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtIeACTkDAAAhUjO-9HU8095211",
@@ -9354,7 +9354,7 @@
     {
       "name": "Vexana",
       "heroid": "38",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_b77a4d3d94ddbc2302603ba74e95a326.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/38.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtGqAYtkmAAB3LMQyNAE1871256",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtG6AcjrHAAAcOwWnvXI3362963",
@@ -9498,7 +9498,7 @@
     {
       "name": "Lapu-Lapu",
       "heroid": "37",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_8b60cceca5b04e97da7372f12bfeb612.jpg",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/37.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtFOALpMsAABzqI8HHNc3695902",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtFeACpauAAAje-v3Ao04039079",
@@ -9640,7 +9640,7 @@
     {
       "name": "Aurora",
       "heroid": "36",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_e03bc05ecfcc5b9a97c7dc0b36767d61.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/36.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtDuAWUBtAACXl6J3H8w0649495",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtD6AcYl5AAAfIHzzELA8303840",
@@ -9786,7 +9786,7 @@
     {
       "name": "Hilda",
       "heroid": "35",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_fec6f3923209642a74789e42c41a2038.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/35.png",
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtCaAe1FhAABuf7v7jsA9554466",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtCqAIMqVAAAkrvMbLto1823176",
       "junling": "",
@@ -9929,7 +9929,7 @@
     {
       "name": "Estes",
       "heroid": "34",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_42b2d76fe927ce57a1d29e220e2b5eea.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/34.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtAuAY9KjAAB9goieF3c7312538",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDtA-ACoF4AAAofI2JufU2587558",
@@ -10075,7 +10075,7 @@
     {
       "name": "Cyclops",
       "heroid": "33",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_cef4d89fd02965d3aae272c30990dbe8.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/33.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDs_WAMLPgAABtLD26bHw2740609",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDs_qAar-uAAAg6AIfkIA4859115",
@@ -10219,7 +10219,7 @@
     {
       "name": "Johnson",
       "heroid": "32",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_bb588518788b5eefec870813bfdb8944.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/32.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDs-GAEphlAAB1QGHzLdM0042563",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDs-WAfBdCAAAdhEkZS_E0841252",
@@ -10365,7 +10365,7 @@
     {
       "name": "Moskov",
       "heroid": "31",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_1ec30f6756a980ef6567f304484efb64.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/31.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDs8WAMApUAACHnMnJslA1013106",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/07/rB_-LVpDs8eAbEIIAAAnRhZS07s4979597",
@@ -10509,7 +10509,7 @@
     {
       "name": "Yi Sun-shin",
       "heroid": "30",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_1b5d6197b9e0e82e606b3cf962804fa5.jpg",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/30.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDs6-AfuBvAAB1hMo4n8o5446181",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDs7OAfxwrAAAa87oFi9A5415105",
@@ -10653,7 +10653,7 @@
     {
       "name": "Ruby",
       "heroid": "29",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_98cb31daec57c34479b8722130c4e3d0.jpg",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/29.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDs5qAaIc-AACNvDUV_WM2807909",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDs56AbmyMAAAdwbuIH_w0210836",
@@ -10799,7 +10799,7 @@
     {
       "name": "Alpha",
       "heroid": "28",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_6d2cd3ce61cce6293a00710770679c0c.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/28.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDs4CAapSFAAB_TNxgJfA9096154",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDs4WACi_wAAAlM8oqLUs7607454",
@@ -10943,7 +10943,7 @@
     {
       "name": "Sun",
       "heroid": "27",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_802a9c5f922e63054fcf11aa7d012482.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/27.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDs2eAKcytAAByEYLkYUY5707478",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDs26AZiDFAAAji3WKsuA6141010",
@@ -11087,7 +11087,7 @@
     {
       "name": "Chou",
       "heroid": "26",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_a3dd4a2b8bd5b8f25a8dd520f2c1c71a.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/26.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDs1OAe4Y7AAB6sQs4tFo8648682",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDs1eAFdURAAAe0_q-vtI9960681",
@@ -11233,7 +11233,7 @@
     {
       "name": "Kagura",
       "heroid": "25",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_732a35fdfffc4d5618f4e3a1f71e39a7.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/25.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDsz2AB4wRAAB0eyxfinQ8017109",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDs0CAbRKWAAAkiNQDxFk9526711",
@@ -11377,7 +11377,7 @@
     {
       "name": "Natalia",
       "heroid": "24",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_50b8723a3ca11dd18d34d26948aef12b.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/24.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDsw-AINbmAAB-0TAQLCg2171948",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDsxKAM3OaAAAajAikgAc6300432",
@@ -11521,7 +11521,7 @@
     {
       "name": "Gord",
       "heroid": "23",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_24b9fa9519483b3d2168261b0fb6c0cf.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/23.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDsu2AJfRrAABgxpIyalo4841227",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDsvGAUBMFAAAa3LDA0GA6281827",
@@ -11665,7 +11665,7 @@
     {
       "name": "Freya",
       "heroid": "22",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_a9a20c5d2a4a94af878a62c07ea373e0.jpg",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/22.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDsteATkRJAABzJhxL5Uw5256353",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDstqAPNhQAAAnsLkMGaI1697769",
@@ -11807,7 +11807,7 @@
     {
       "name": "Hayabusa",
       "heroid": "21",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_9be54f0bee987aa88c2dd73c054c7e1d.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/21.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDsp6AVrh5AAB2hTL01GM4060727",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDsqiARcaHAAAiUGEwlTE5674767",
@@ -11949,7 +11949,7 @@
     {
       "name": "Lolita",
       "heroid": "20",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_007ce553513122fdab39684dbbe215e3.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/20.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDsoCAXgcgAAHFUeM_nHE7881836",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDsoKAHx6bAABZTiXWLP43900075",
@@ -12093,7 +12093,7 @@
     {
       "name": "Minotaur",
       "heroid": "19",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_4993cbe65d3a01a0e654ca54883a6c67.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/19.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDsmyAB2hQAABitrngbf44367568",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDsmmAcz_SAAGOuNHHk0I1870646",
@@ -12237,7 +12237,7 @@
     {
       "name": "Layla",
       "heroid": "18",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_a05a03db633cc03ef3f733d2786073c4.jpg",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/18.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDsk-AEWcBAAFn6UR1Ys87821010",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDslKATglIAABfFME0RVQ6940444",
@@ -12381,7 +12381,7 @@
     {
       "name": "Fanny",
       "heroid": "17",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_523a730c11b8c22fc6c3fcc5575c29a2.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/17.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDsgmAYjdvAAFq8Ufvk9M8345030",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDsgyAbJaCAABFSOsQcN83688761",
@@ -12525,7 +12525,7 @@
     {
       "name": "Zilong",
       "heroid": "16",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_3bbb2c2b8a78d0d63ecd62d74048fcf4.jpg",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/16.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/A9/Cq2Ixl-G1EeAPm0yAADVVRKXbSY900.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpDse2AWUcbAABhEgfKr240140735",
@@ -12671,7 +12671,7 @@
     {
       "name": "Eudora",
       "heroid": "15",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_ed32e3c71ecd41652fc54a7efd02aba4.jpg",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/15.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpCPwGAB7zrAAB1dQ0ZohA9753079",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpCPwSAefhRAAAj-bMALZQ5438224",
@@ -12817,7 +12817,7 @@
     {
       "name": "Rafaela",
       "heroid": "14",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_549ab8159821398b48e7e79ceb298396.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/14.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpCPu2AZVNaAABxldTawik9737962",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpCPvCATEGkAAAlZ3SQSCs6928847",
@@ -12962,7 +12962,7 @@
     {
       "name": "Clint",
       "heroid": "13",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_324e2b04393700944b2b54f2f6c939b5.jpg",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/13.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/A9/Cq2Ixl-G1AWAK-TSAADA3nbDHg0898.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpCPt6AGfDLAAAmQ_uMa3Q8133263",
@@ -13106,7 +13106,7 @@
     {
       "name": "Bruno",
       "heroid": "12",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_46fd4d9fa09a27e61b7481e1aeaa0615.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/12.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpCPl6AJQnmAAB9dxSBBR45619718",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpCPmKAL0UCAAAhw4mnVbc0762761",
@@ -13250,7 +13250,7 @@
     {
       "name": "Bane",
       "heroid": "11",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_f7cf408af54d00ef4db1f3afb064b747.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/11.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/01/Cq2Ixlpy3ESAL5xSAAB9Jv8Yf201820471",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/01/Cq2Ixlpy3FKAXq-zAAAfueXtjCY1667659",
@@ -13390,7 +13390,7 @@
     {
       "name": "Franco",
       "heroid": "10",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_07605801972ede9147e9769ac7991aa0.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/10.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpCPjSARDB-AACIudLuyQo8944658",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpCPi-AaCwVAAAf4L1et-I6420088",
@@ -13534,7 +13534,7 @@
     {
       "name": "Akai",
       "heroid": "9",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_5f694a5e98b116d1cbb143c8e766019b.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/9.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpCPg2ADY_FAACGMN-QM900735582",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpCPhCABOoCAAAinCbr08w5467130",
@@ -13678,7 +13678,7 @@
     {
       "name": "Karina",
       "heroid": "8",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_78bbd896308c73de83df126df19a06bb.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/8.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpCPfOAYyyeAAB4xxT1irM2117637",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpCPfiAFEfUAAAiVq6kboM1587460",
@@ -13822,7 +13822,7 @@
     {
       "name": "Alucard",
       "heroid": "7",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_2f53289ddd423fa9bc95d380b6d79719.jpg",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/7.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpCPdOAT5GKAACKKsGSRDE6559830",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpCPdqAb-08AAAeQdS7JyY8758460",
@@ -13966,7 +13966,7 @@
     {
       "name": "Tigreal",
       "heroid": "6",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_23a7a603ff9d20074777d52e2eb202f3.jpg",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/6.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/A9/Cq2Ixl-G1COAEBH5AADF_1HgT4E044.jpg",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpCPaGAUqy_AAAhHmS6o2I9145100",
@@ -14112,7 +14112,7 @@
     {
       "name": "Nana",
       "heroid": "5",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_08d0332be76ff7bdd894f7c7227be56c.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/5.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpCHQqAQt-pAACVpimQmbk4797986",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpCHRCAJuxDAABWe0QMFO02646513",
@@ -14256,7 +14256,7 @@
     {
       "name": "Alice",
       "heroid": "4",
-      "key": "//akmwebstatic.yuanzhanapp.com/web/madmin/image_7f0da9c3ddefff4530e8dbe17054c45e.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/4.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpCHBmAaTZsAACMF8f2yX03838673",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpCHCqAJ_1aAAAcbjSBDhY3785756",
@@ -14402,7 +14402,7 @@
     {
       "name": "Saber",
       "heroid": "3",
-      "key": "//indoch.s3.ml.moonlian.com/web/madmin/image_fe0998e555f0cf622bdb1d241e2ab87a.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/3.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpCG1eAR_AeAAHVwc-d_TY7731883",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpCGxKAbNTjAABijMCtcwQ7920700",
@@ -14544,7 +14544,7 @@
     {
       "name": "Balmond",
       "heroid": "2",
-      "key": "//indoch.s3.ml.moonlian.com/web/madmin/image_be884c14d560f6bc5827e2a663439f94.png",
+      "key": "//mobileg.s3.amazonaws.com/heroprofile/2.png",
 
       "cover_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpAwAaAPTfEAAG0FYO4cHo4453688",
       "gallery_picture": "https://img.mobilelegends.com/group1/M00/00/06/rB_-LVpAyI-ATeudAAAjlLdPVpA2338696",
