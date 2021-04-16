@@ -1334,7 +1334,7 @@
           {
             "equipment_id": 2006,
             "equip": {
-              "icon": "//akmwebstatic.yuanzhanapp.com/web/mlweb/image/res/miya/equip/4adc2b796ec60846e0af2405e1deea41.png",
+              "icon": "//mobileg.s3.amazonaws.com/items/movement/swiftboots.png",
               "name": "Demon Hunter Sword",
               "des": [
                 "Unique Passive-Devour: Basic attacks will deal 9% of the target's current HP as additional Physical Damage (up to 60 against creeps and minions)."
@@ -1374,7 +1374,7 @@
           {
             "equipment_id": 3005,
             "equip": {
-              "icon": "://mobileg.s3.amazonaws.com/items/attack/windtalker.png",
+              "icon": "//mobileg.s3.amazonaws.com/items/attack/windtalker.png",
               "name": "Windtalker",
               "des": [
                 "Unique Passive-Typhoon: Every 5-3s, Basic Attack hits up to 3 enemy units and deals 150-362 Magic Damage. The CD of this effect drops to the minimum when Critical Chance rises to 50%, while damage rises to the maximum when Attack Speed rises to 3. This attack can be critical and deals 200% of damage to minions."
@@ -2087,7 +2087,7 @@
           {
             "equipment_id": 3005,
             "equip": {
-              "icon": "://mobileg.s3.amazonaws.com/items/attack/windtalker.png",
+              "icon": "//mobileg.s3.amazonaws.com/items/attack/windtalker.png",
               "name": "Windtalker",
               "des": [
                 "Unique Passive-Typhoon: Every 5-3s, Basic Attack hits up to 3 enemy units and deals 150-362 Magic Damage. The CD of this effect drops to the minimum when Critical Chance rises to 50%, while damage rises to the maximum when Attack Speed rises to 3. This attack can be critical and deals 200% of damage to minions."
@@ -4993,7 +4993,7 @@
           {
             "equipment_id": 3005,
             "equip": {
-              "icon": "://mobileg.s3.amazonaws.com/items/attack/windtalker.png",
+              "icon": "//mobileg.s3.amazonaws.com/items/attack/windtalker.png",
               "name": "Windtalker",
               "des": [
                 "Unique Passive-Typhoon: Every 5-3s, Basic Attack hits up to 3 enemy units and deals 150-362 Magic Damage. The CD of this effect drops to the minimum when Critical Chance rises to 50%, while damage rises to the maximum when Attack Speed rises to 3. This attack can be critical and deals 200% of damage to minions."
@@ -6288,7 +6288,7 @@
           {
             "equipment_id": 3005,
             "equip": {
-              "icon": "://mobileg.s3.amazonaws.com/items/attack/windtalker.png",
+              "icon": "//mobileg.s3.amazonaws.com/items/attack/windtalker.png",
               "name": "Windtalker",
               "des": [
                 "Unique Passive-Typhoon: Every 5-3s, Basic Attack hits up to 3 enemy units and deals 150-362 Magic Damage. The CD of this effect drops to the minimum when Critical Chance rises to 50%, while damage rises to the maximum when Attack Speed rises to 3. This attack can be critical and deals 200% of damage to minions."
@@ -12366,7 +12366,7 @@
           {
             "equipment_id": 3005,
             "equip": {
-              "icon": "://mobileg.s3.amazonaws.com/items/attack/windtalker.png",
+              "icon": "//mobileg.s3.amazonaws.com/items/attack/windtalker.png",
               "name": "Windtalker",
               "des": [
                 "Unique Passive-Typhoon: Every 5-3s, Basic Attack hits up to 3 enemy units and deals 150-362 Magic Damage. The CD of this effect drops to the minimum when Critical Chance rises to 50%, while damage rises to the maximum when Attack Speed rises to 3. This attack can be critical and deals 200% of damage to minions."
@@ -13237,7 +13237,7 @@
           {
             "equipment_id": 3005,
             "equip": {
-              "icon": "://mobileg.s3.amazonaws.com/items/attack/windtalker.png",
+              "icon": "//mobileg.s3.amazonaws.com/items/attack/windtalker.png",
               "name": "Windtalker",
               "des": [
                 "Unique Passive-Typhoon: Every 5-3s, Basic Attack hits up to 3 enemy units and deals 150-362 Magic Damage. The CD of this effect drops to the minimum when Critical Chance rises to 50%, while damage rises to the maximum when Attack Speed rises to 3. This attack can be critical and deals 200% of damage to minions."
@@ -14850,7 +14850,7 @@
           {
             "equipment_id": 3005,
             "equip": {
-              "icon": "://mobileg.s3.amazonaws.com/items/attack/windtalker.png",
+              "icon": "//mobileg.s3.amazonaws.com/items/attack/windtalker.png",
               "name": "Windtalker",
               "des": [
                 "Unique Passive-Typhoon: Every 5-3s, Basic Attack hits up to 3 enemy units and deals 150-362 Magic Damage. The CD of this effect drops to the minimum when Critical Chance rises to 50%, while damage rises to the maximum when Attack Speed rises to 3. This attack can be critical and deals 200% of damage to minions."
